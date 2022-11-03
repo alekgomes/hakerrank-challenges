@@ -6,3 +6,5 @@ Minha resolução para problemas do HackerRank
 [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem)
 
 [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)
+
+[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
