@@ -8,3 +8,5 @@ Minha resolução para problemas do HackerRank:
 [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)
 
 [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+
+[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
