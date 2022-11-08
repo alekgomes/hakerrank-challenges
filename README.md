@@ -11,4 +11,4 @@ Minha resolução para problemas do HackerRank:
 
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
 
-[Modified Kaprekar Numbers]https://www.hackerrank.com/challenges/kaprekar-numbers/submissions/code/299867153
+[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/submissions/code/299867153)
