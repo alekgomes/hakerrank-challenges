@@ -10,3 +10,5 @@ Minha resolução para problemas do HackerRank:
 [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+
+[Modified Kaprekar Numbers]https://www.hackerrank.com/challenges/kaprekar-numbers/submissions/code/299867153
