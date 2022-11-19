@@ -14,3 +14,5 @@ Minha resolução para problemas do HackerRank:
 [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/submissions/code/299867153)
 
 [Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+
+[Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
